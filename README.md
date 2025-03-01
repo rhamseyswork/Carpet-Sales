@@ -4,8 +4,7 @@
 **Project Name:** Carpet Sales  
 **Group Members:** Ashton Pleickhardt, Rhamseys Garcia  
 **Date:** 02/13/2025 - 02/28/2025
-**GitHub Repository:** [Carpet Sales](https://github.com/rhamseyswork/carpet-sales)
-
+**GitHub Repository:** [Carpet Sales](https://github.com/rhamseyswork/carpet-sales) 
 **Google Docs:** [ProjectOneJava](https://docs.google.com/document/d/1mI1WKLQS4KWPrDbSo-LX8kHscxcWK1j4/edit?usp=sharing&ouid=111319674295437682510&rtpof=true&sd=true)
 
 ## Objectives
